@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skaimbauer
-- 👀 I’m interested in Computer
+- 👀 I’m interested in Computer zeigs
 - 🌱 I’m currently learning Java/C++(Arduino)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gor ned
